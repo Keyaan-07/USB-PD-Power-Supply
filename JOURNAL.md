@@ -127,3 +127,6 @@ Finally:
 ![Final PCB](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/pcb.png)
 ![image](https://github.com/Keyaan-07/USB-PD-Power-Supply/blob/main/Images/Final1.png)
 # time spent today: 30 mins
+
+# 17 June 2025 
+A few components arrived a few days ago, the solder paste and few other things. I realised that i had ordered the wrong pin headers lol, they are angled but i needed straight....
