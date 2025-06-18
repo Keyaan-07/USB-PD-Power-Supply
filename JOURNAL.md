@@ -130,3 +130,6 @@ Finally:
 
 # 17 June 2025 
 A few components arrived a few days ago, the solder paste and few other things. I realised that i had ordered the wrong pin headers lol, they are angled but i needed straight....
+
+# 18 June 2025
+THE PCB IS HERE. It looks Beautiful <333 cuz it's my first pcb hehehe
