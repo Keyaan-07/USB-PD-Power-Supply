@@ -133,3 +133,4 @@ A few components arrived a few days ago, the solder paste and few other things. 
 
 # 18 June 2025
 THE PCB IS HERE. It looks Beautiful <333 cuz it's my first pcb hehehe
+I am now starting the Long wait for my LCSC components
